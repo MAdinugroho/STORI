@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+SISTEM INFORMASI TOKO ROTI
 ###################
 
 Stori merupakan sistem informasi sederhana berbasis CodeIgniter.
